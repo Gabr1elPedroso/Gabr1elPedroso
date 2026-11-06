@@ -1,5 +1,5 @@
 # Sobre Mim:
-Desenvolvedor de Software com formação em Análise e Desenvolvimento de Sistemas pela FACENS. Tenho foco no desenvolvimento backend com Java e Spring Boot, criação de APIs REST e integração com bancos de dados SQL. Também possuo conhecimentos em JavaScript, Node.js.<br><br>Busco aprimorar minhas habilidades por meio de projetos práticos, aplicando boas práticas de programação, orientação a objetos e resolução de problemas. Tenho interesse em desenvolver soluções eficientes, aprender novas tecnologias e contribuir com projetos colaborativos.
+Desenvolvedor de Software com formação em Análise e Desenvolvimento de Sistemas. Tenho foco no desenvolvimento backend com Java e Spring Boot, criação de APIs REST e integração com bancos de dados SQL. Também possuo conhecimentos em JavaScript, Node.js.<br><br>Busco aprimorar minhas habilidades por meio de projetos práticos, aplicando boas práticas de programação, orientação a objetos e resolução de problemas. Tenho interesse em desenvolver soluções eficientes, aprender novas tecnologias e contribuir com projetos colaborativos.
 
 
 ## 🌐 Sociais:
